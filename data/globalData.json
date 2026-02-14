@@ -1,77 +1,56 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "McKenna Orthodontics",
+  "domain": "www.mckennaortho.com",
+  "email": "office@mckennaortho.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(203) 790-9155",
+    "href": "tel:+12037909155",
+    "aria": "2 0 3, 7 9 0, 9 1 5 5"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Danbury",
       "address": {
-        "street": "9650 Main Street",
+        "street": "131 Deer Hill Ave",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "Danbury, CT 06810",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-73.452148",
+          "latitude": "41.389685"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(203) 790-9155",
+        "href": "tel:+12037909155"
       },
-      "email": "info@mandtortho.com",
-      "hours": [
-        {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
-        }
-      ],
+      "email": "office@mckennaortho.com",
+      "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://goo.gl/maps/5JRCM1qGg532",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "Tonawanda Office",
+      "title": "New Fairfield",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "1 Gillotti Road",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "New Fairfield, CT 06812",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "-73.4930006",
+          "latitude": "41.4618267"
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "(203) 746-5500",
+        "href": "tel:+12037465500"
       },
-      "email": "info@mandtortho.com",
+      "email": "office@mckennaortho.com",
       "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=1+Gillotti+Road+New+Fairfield+CT+06812",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +73,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "131 Deer Hill Ave, Danbury, CT 06810",
+        "href": "https://goo.gl/maps/5JRCM1qGg532",
+        "label": "View 131 Deer Hill Ave, Danbury, CT 06810 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(203) 790-9155",
+        "href": "tel:+12037909155",
+        "label": "Call (203) 790-9155",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "COVID 19 update",
+      "text": "COVID-19 safety measures in place to protect patients and staff. Contact the office for details.",
+      "mobile_text": "COVID 19 Update",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "COVID 19 Update",
+        "text": "<p>McKenna Orthodontics follows enhanced infection control protocols to keep patients and staff safe. Please call the office if you have questions about appointments, screenings, or visitor policies.</p>"
       }
     }
   },
@@ -150,7 +129,11 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/pages/Gregory-A-McKenna-Orthodontist/156552117722982",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=IBIAev9OX6U",
         "icon": "youtube"
       }
     ],
@@ -158,12 +141,12 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to McKenna Orthodontics",
     "text": "",
     "image": {
-      "src": "",
+      "src": "https://www.mckennaortho.com/assets/images/slideshow/slide1.jpg",
       "webp": "",
-      "alt": "",
+      "alt": "McKenna Orthodontics",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +154,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "Home Hero"
+      }
     }
   }
 }
