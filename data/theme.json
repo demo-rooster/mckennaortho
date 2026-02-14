@@ -4,68 +4,68 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 155,
+          "green": 167,
+          "blue": 52,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#9ba734",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
-          "wcagRating": "AA"
+          "luminance": 0.35,
+          "luminancePercent": "35%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.97,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 147,
+          "green": 162,
+          "blue": 18,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#93a212",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
-          "wcagRating": "AA"
+          "luminance": 0.32,
+          "luminancePercent": "32%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.42,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 0,
+          "green": 22,
+          "blue": 72,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#001648",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0.01,
+          "luminancePercent": "1%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "contrastRatio": 17.38,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 0,
+          "green": 22,
+          "blue": 72,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#001648",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0.01,
+          "luminancePercent": "1%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "contrastRatio": 17.38,
           "wcagRating": "AAA"
         }
       },
@@ -123,17 +123,17 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 99,
+          "green": 109,
+          "blue": 13,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#636d0d",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.14,
+          "luminancePercent": "14%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "contrastRatio": 5.64,
           "wcagRating": "AA"
         }
       }
@@ -141,76 +141,31 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'sans-serif', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'PT Sans Narrow', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://www.mckennaortho.com/assets/images/logo.png",
     "logo_config": {
       "type": "url",
-      "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "variant": "dark",
+      "url": "https://www.mckennaortho.com/assets/images/logo.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
-        },
-        {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
-        },
-        {
-          "hex": "#090707",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
-        },
-        {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
-        },
-        {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#ffffff",
+          "luminosity_percent": 100,
+          "count": 147
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
-      "is_light": false
+      "dominant_color": "#ffffff",
+      "avg_luminosity": 100,
+      "is_light": true
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://www.mckennaortho.com/assets/images/icons/favicon.png"
   }
 }
